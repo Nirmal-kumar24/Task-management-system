@@ -16,7 +16,7 @@ This project is a Task Management System with:
 # Project Structure
 
 - [task-management-system/](/)
-  -[**client**  (Frontend - React.js)] (/**client/**  (Frontend - React.js))
+  -[**client/**  (Frontend - React.js)] (/**client/**  (Frontend - React.js))
   -[public/] (/public)
   -[src/] (/src/)
     -[components/] (/src/components)

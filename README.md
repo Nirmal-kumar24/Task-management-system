@@ -87,7 +87,7 @@ You can clone the complete project from GitHub:
  GitHub Repository
  Task Management System - Full Stack Project
 
-https://github.com/Nirmal-kumar24/Task-management-system
+https://github.com/Nirmal-kumar24/Task-management-system.git
 
 #  How to Run the Project?
 

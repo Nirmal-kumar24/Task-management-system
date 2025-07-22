@@ -14,51 +14,25 @@ This project is a Task Management System with:
 ✅ Responsive UI (Bootstrap)
 
 # Project Structure
-task-management-system/
 
-│
-
-├── **client/** (Frontend - React.js)
-
-│   ├── public/
-
-│   ├── src/
-
-│   │   ├── components/
-
-│   │   ├── pages/ 
-
-│   │   ├── App.js
-
-│   │   ├── index.js
-
-│   │   └── ...
-
-│   └── package.json
-
-│
-
-├── **server/** (Backend - Node.js + Express.js)
-
-│   ├── models/
-
-│   ├── routes/
-
-│   ├── config/
-
-│   ├── app.js
-
-│   └── package.json
-
-│
-
-├── **database/** (MongoDB - Mongoose)
-
-│   └── db.js
-
-│
-
-└── **README.md** (Setup Guide)
+- [task-management-system/](/)
+  -[**client**  (Frontend - React.js)] (/**client/**  (Frontend - React.js))
+  -[public/] (/public)
+  -[src/] (/src/)
+    -[components/] (/src/components)
+     -[pages/] (/src/components/pages)
+     -[App.js] (/src/components/App.js)
+     -[index.js] (/src/components/index.js)
+  -[package.json] (/package.json)
+  -[**server/** (Backend - Node.js + Express.js)] (/**server/** (Backend - Node.js + Express.js))
+  -[models/] (/models/)
+  -[routes/] (/routes/)
+  -[config/] (/config/)
+  -[app.js] (/app.js)
+  -[package.json] (/package.json)
+-[**database/** (MongoDB - Mongoose)] (/**database/** (MongoDB - Mongoose))
+  -[db.js] (/**database/** (MongoDB - Mongoose)/db.js)
+-[**README.md** (Setup Guide)] (/**README.md** (Setup Guide))
 
 # Features
 1. User Authentication (Signup, Login, Logout)
@@ -72,14 +46,14 @@ task-management-system/
 5. REST API (For Frontend-Backend Communication)
    
 # Tech Stack
- _________________________________________________________________
 |      *Category*	           |           *Technology*             |
+|----------------------------|------------------------------------|
 |*Frontend*	                 |    React.js, Bootstrap             |      
 |*Backend*	                 |    Node.js, Express.js             |
 |*Database*                  |          MongoDB                   |
-|*Authentication	           |   JWT (JSON Web Tokens)            |
-|*API	                       |        RESTful API                 |
-|*Deployment	               | Heroku (Backend), Vercel (Frontend)|
+|*Authentication*	           |   JWT (JSON Web Tokens)            |
+|*API*                       |        RESTful API                 |
+|*Deployment*	              | Heroku (Backend), Vercel (Frontend)|
 
 # Download Full Source Code
 You can clone the complete project from GitHub:
@@ -87,7 +61,7 @@ You can clone the complete project from GitHub:
  GitHub Repository
  Task Management System - Full Stack Project
 
-https://github.com/Nirmal-kumar24/Task-management-system
+https://github.com/Nirmal-kumar24/Task-management-system.git
 
 #  How to Run the Project?
 
@@ -138,3 +112,5 @@ Replace the connection string in server/config/db.js.
 ✔ Easy to extend (Add more features if needed).
 
 ✔ Good for resume (Shows full-stack skills).
+
+
